@@ -1,0 +1,39 @@
+{
+    "menu": [
+        {
+            "url": "/home",
+            "name": "Home",
+            "icon": "home",
+            "slug": "home"
+        },
+        {
+            "url": "admin/miscellaneous/detection",
+            "name": "Image AI",
+            "icon": "bot",
+            "slug": "admin.miscellaneous.detection"
+        },
+        {
+            "navheader": "User Management",
+            "slug": ""
+        },
+        {
+            "name": "User Management",
+            "icon": "user",
+            "slug": "",
+            "submenu": [
+                {
+                    "url": "/admin/users",
+                    "name": "Users",
+                    "icon": "circle",
+                    "slug": "admin.users.index"
+                },
+                {
+                    "url": "/admin/users/add",
+                    "name": "Add User",
+                    "icon": "circle",
+                    "slug": "admin.users.add"
+                }
+            ]
+        }
+    ]
+}
