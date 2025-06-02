@@ -1,6 +1,4 @@
 <x-layout.default-layout>
-
-
     <div class="flex gap-5 flex-col">
         <div class="grid grid-cols-2 gap-4 lg:grid-cols-4">
             <div class="uk-card">

@@ -4,7 +4,7 @@
 
 
     @if (empty($submitButton))
-        <button type="submit" class="uk-button uk-button-secondary w-full">Submit</button>
+        <button type="submit" class="uk-button uk-button-secondary w-full mt-2">Submit</button>
     @else
         {{ $submitButton }}
     @endif
