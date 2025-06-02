@@ -23,6 +23,4 @@ This is a lightweight admin panel.
 
 This project is licensed under the MIT License.
 
-## Acknowledgments
 
--   Thanks to the creators of [Franken-UI](https://franken-ui.dev/) for their amazing work.
